@@ -43,7 +43,7 @@ You are required to submit your summary of discussion points by 9PM the day of c
 
 Each paper will be assigned with one leader. The leader is supposed to present the paper, including going into the relevant background.
 Post presentation the leader is also responsible for running the discussion session with the aid of instructor. 
-You are supposed present twice during the semester. Please sign up for the schedule here.
+You are supposed present twice during the semester. Please sign up for the schedule [here](https://docs.google.com/spreadsheets/d/1-xrEr01Fo5AbcDacBailEWuvutqiYLfpN802onC0qpE/edit?usp=sharing).
 The slides for the presentation are due at 9 AM the day before the class. Please email the slides to the instructor.
 
 ### Research Project 
