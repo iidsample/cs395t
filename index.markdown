@@ -56,3 +56,7 @@ The slides for the presentation are due at 9 AM the day before the class. Please
 * Presentation and Class Discussions (20%) (2 @ 10% each)
 * Final Project, Presentation and Report (50%)
 
+### Contact and Office Hours 
+Office hours 11 AM - Noon every Thursday. 
+Email - saurabh.agarwal at utexas.edu
+
