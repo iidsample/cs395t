@@ -84,7 +84,7 @@ Cloud Microservices</a>  </td>
             <td class="date">February-20</td>
             <td class="topic"> Caching</td>
             <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3603269.3604863"> Darwin: Flexible Learning-based CDN Caching</a>  </td>
-            <td class="Notes"></td>
+            <td class="Notes"> Project Proposal Due</td>
         </tr>
         <tr>
             <td class="date">February-25</td>
@@ -142,13 +142,13 @@ Ansor: Generating High-Performance Tensor Programs for Deep Learning</a>  </td>
             <td class="date">March-25</td>
             <td class="topic"> Performance Diagnosis</td>
             <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3603269.3604877"> Murphy: Performance Diagnosis of Distributed Cloud Applications</a>  </td>
-            <td class="Notes"></td>
+            <td class="Notes"> </td>
         </tr>
         <tr>
             <td class="date">March-27</td>
             <td class="topic"> Synthetic Trace Generation</td>
             <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3544216.3544251"> Practical GAN-based Synthetic IP Header Trace Generation using NetShare</a>  </td>
-            <td class="Notes"></td>
+            <td class="Notes">Project Progress Report and Check-In</td>
         </tr>
         <tr>
             <td class="date">April-01</td>
