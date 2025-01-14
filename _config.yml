@@ -20,7 +20,7 @@
 
 title: "CS 395T: Principles of learned systems"
 description: "Spring 2025"
-baseurl: "/cs95t"
+baseurl: "/cs395t"
 url: ""
 theme: minima
 # Build settings
