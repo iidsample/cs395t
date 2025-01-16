@@ -28,12 +28,19 @@ The course heavily borrows its format from Prof. Aditya Akella's previous iterat
 * Challenges in Enabling ML in Systems
 * Performance issues associated with ML enabled systems
 
+### Contact and Office Hours 
+Post question on [Ed](https://edstem.org/us/join/Z4BnYa).
+
+Office hours 11 AM - Noon every Thursday. 
+
+Email - saurabh.agarwal at utexas.edu
+
 
 ## Course Organization
 
 ### Paper Reviews
-You are required to read and submit a response to the canvas assignment posted for each assigned paper reading. 
-The Paper reviews our due at 9 AM before each class on Canvas. 
+You are required to read and submit a response to the ~canvas assignment~ on the Ed discussion posted for each assigned paper reading. 
+The Paper reviews our due at 9 AM before each class on Ed.
 
 ### In class Discussion 
 During the class we will discuss additional instructor provided discussion points related to the paper.
@@ -55,8 +62,4 @@ The slides for the presentation are due at 9 AM the day before the class. Please
 * In-Class Discussions and participation (15%)
 * Presentation and Class Discussions (20%) (2 @ 10% each)
 * Final Project, Presentation and Report (50%)
-
-### Contact and Office Hours 
-Office hours 11 AM - Noon every Thursday. 
-Email - saurabh.agarwal at utexas.edu
 
