@@ -39,8 +39,8 @@ Email - saurabh.agarwal at utexas.edu
 ## Course Organization
 
 ### Paper Reviews
-You are required to read and submit a response to the ~canvas assignment~ on the Ed discussion posted for each assigned paper reading. 
-The Paper reviews our due at 9 AM before each class on Ed.
+You are required to read and submit a response to the ~~canvas assignment~~ on the Ed discussion posted for each assigned paper reading. 
+The Paper reviews our due at ~~9 AM~~ 6PM before each class on Ed.
 
 ### In class Discussion 
 During the class we will discuss additional instructor provided discussion points related to the paper.
