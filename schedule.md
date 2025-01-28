@@ -11,6 +11,7 @@ title: Schedule
             <th>Date</th>
             <th>Topic</th>
             <th>Reading</th>
+            <th>Slides</th>
             <th>Notes</th>
         </tr>
     </thead>
@@ -19,6 +20,9 @@ title: Schedule
             <td class="date">January-14</td>
             <td class="topic">Course Introduction </td>
             <td class="reading"> <a href="http://ccr.sigcomm.org/online/files/p83-keshavA.pdf"> How to read a paper </a>  </td>
+            <td class="slides"><a href="https://drive.google.com/file/d/1a8lLfkLPL5nyhCk52wPGb02O1n0VBs8h/view?usp=sharing"> Slides </a> <br>
+                            <a href="https://gitlab.flux.utah.edu/johnsond/openstack-build-ubuntu/-/blob/master/setup-grow-rootfs.sh#L30"> Annotated Slides </a> 
+</td>
             <td class="Notes">Sign up from Presentations</td>
         </tr>
         <tr>
