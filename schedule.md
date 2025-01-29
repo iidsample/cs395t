@@ -56,7 +56,7 @@ title: Schedule
         <tr>
             <td class="date">January-30</td>
             <td class="topic"> OS data structures </td>
-            <td class="reading"> <a href="https://arxiv.org/abs/1712.01208 "> From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees</a>  </td>
+            <td class="reading"> <a href="https://www.usenix.org/system/files/osdi20-dai_0.pdf"> From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees</a>  </td>
             <td class="slides"></td>
             <td class="Notes"></td>
         </tr>
