@@ -21,13 +21,15 @@ title: Schedule
             <td class="topic">Course Introduction </td>
             <td class="reading"> <a href="http://ccr.sigcomm.org/online/files/p83-keshavA.pdf"> How to read a paper </a>  </td>
             <td class="slides"><a href="https://drive.google.com/file/d/1a8lLfkLPL5nyhCk52wPGb02O1n0VBs8h/view?usp=sharing"> Slides </a> <br>
-                            <a href="https://drive.google.com/file/d/1TwTmerYKOLPBlh2bT2n9dNLCTljCu3RE/view?usp=sharing"> Annotated Slides </a> 
+                            <a href="https://drive.google.com/file/d/1TwTmerYKOLPBlh2bT2n9dNLCTljCu3RE/view?usp=sharing"> Slides + Annotations </a> 
 </td>
             <td class="Notes">Sign up from Presentations</td>
         </tr>
         <tr>
             <td class="date">January-16</td>
             <td class="topic">Need for domain specific foundation models</td>
+            <td class="slides"> <a href="https://drive.google.com/file/d/1KlUAJoXYw_pP_e1gnvRP9-Lp4YnA5Ev2/view?usp=sharing"> Slides </a> <br>
+                                <a href="https://drive.google.com/file/d/1uM70D2uHtf-c9SXsNE-2smqwsewPsQ_l/view?usp=sharing"> Slides + Annotations </a>
             <td class="reading"> <a href="https://arxiv.org/abs/2312.07813"> On a Foundation Model for Operating Systems
  </a> 
 <br>
@@ -39,7 +41,9 @@ title: Schedule
             <td class="date"> January-23 </td>
             <td class="topic"> Overview of ML techniques used in Systems </td>
             <td class="reading"></td>
-            <td class="slides"></td>
+            <td class="slides"> <a href="https://drive.google.com/file/d/19PV-jZYTxHAoeWVemmwH5gqUdXbv8OT-/view?usp=sharing"> Slides </a> <br>
+                                <a href="https://drive.google.com/file/d/1Fx2uHAKcrt3UZzQNfiAtkKM1lqGFS5OX/view?usp=sharing"> Slides + Annotations </a>
+</td>
             <td class="notes">Instructor Led</td>
         </tr>
         <tr>
