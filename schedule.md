@@ -28,12 +28,10 @@ title: Schedule
         <tr>
             <td class="date">January-16</td>
             <td class="topic">Need for domain specific foundation models</td>
-            <td class="reading"> <a href="https://arxiv.org/abs/2312.07813"> On a Foundation Model for Operating Systems
+            <td class="reading"> <a href="https://arxiv.org/abs/2312.07813"> On a Foundation Model for Operating Systems <br>                             
+                      <a href="https://cseweb.ucsd.edu/~yiying/LearnedOS-OSR19.pdf"> Learned Operating Systems </a> 
             <td class="slides"> <a href="https://drive.google.com/file/d/1KlUAJoXYw_pP_e1gnvRP9-Lp4YnA5Ev2/view?usp=sharing"> Slides </a> <br>
                                 <a href="https://drive.google.com/file/d/1uM70D2uHtf-c9SXsNE-2smqwsewPsQ_l/view?usp=sharing"> Slides + Annotations </a>
- </a> 
-<br>
-<a href="https://cseweb.ucsd.edu/~yiying/LearnedOS-OSR19.pdf"> Learned Operating Systems </a> 
          </td>
             <td class="Notes"></td>
         </tr>
