@@ -82,7 +82,7 @@ Cloud Microservices</a>  </td>
             <td class="topic"> Resource Allocation </td>
             <td class="reading"> <a href="https://www.usenix.org/conference/osdi20/presentation/hao"> LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network</a>  </td>
             <td class="slides"></td>
-            <td class="Notes"></td>
+            <td class="Notes">Suggested Project Topics Release</td>
         </tr>
         <tr>
             <td class="date">February-13</td>
