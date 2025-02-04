@@ -48,7 +48,11 @@ title: Schedule
             <td class="date">January-28</td>
             <td class="topic"> Learned Indices</td>
             <td class="reading"> <a href="https://arxiv.org/abs/1712.01208 "> The Case for Learned Index Structures </a>  </td>
-            <td class="slides"></td>
+            <td class="slides"> <a href="https://drive.google.com/file/d/1ZUR1qga0BXXCTHUeZqhI9chBIb3Geiin/view?usp=sharing"> Slides </a> <br> 
+                                <a href="https://drive.google.com/file/d/1WH12DcFr-N8oNLFT3LGmgAUm6UGYAGGD/view?usp=sharing"> Slides + Annotations </a> <br>
+                                <a href="https://drive.google.com/file/d/18q19yL1sWGAdGZ_99RR6ulyzkxCiQOt9/view?usp=sharing"> Student Presentation </a> 
+
+</td>
             <td class="Notes"></td>
         </tr>
         <tr>
