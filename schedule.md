@@ -63,7 +63,7 @@ title: Schedule
             <td class="Notes"></td>
         </tr>
         <tr>
-            <td class="date">February-06</td>
+            <td class="date">February- 04, 06</td>
             <td class="topic"> Scheduling </td>
             <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3341302.3342080"> Learning Scheduling Algorithms for Data Processing Clusters</a>  </td>
             <td class="slides"></td>
