@@ -56,21 +56,21 @@ title: Schedule
             <td class="Notes"></td>
         </tr>
         <tr>
-            <td class="date">January-30</td>
+            <td class="date">January-30, February-02</td>
             <td class="topic"> OS data structures </td>
             <td class="reading"> <a href="https://www.usenix.org/system/files/osdi20-dai_0.pdf"> From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees</a>  </td>
             <td class="slides"></td>
             <td class="Notes"></td>
         </tr>
         <tr>
-            <td class="date">February-04</td>
+            <td class="date">February-06</td>
             <td class="topic"> Scheduling </td>
             <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3341302.3342080"> Learning Scheduling Algorithms for Data Processing Clusters</a>  </td>
             <td class="slides"></td>
             <td class="Notes"></td>
         </tr>
         <tr>
-            <td class="date">February-06</td>
+            <td class="date">February-11</td>
             <td class="topic"> Scheduling </td>
             <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3445814.3446693"> Sinan: ML-Based and QoS-Aware Resource Management for
 Cloud Microservices</a>  </td>
@@ -78,30 +78,33 @@ Cloud Microservices</a>  </td>
             <td class="Notes"></td>
         </tr>
         <tr>
-            <td class="date">February-11</td>
+            <td class="date">February-13</td>
             <td class="topic"> Resource Allocation </td>
             <td class="reading"> <a href="https://www.usenix.org/conference/osdi20/presentation/hao"> LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network</a>  </td>
             <td class="slides"></td>
             <td class="Notes">Suggested Project Topics Release</td>
         </tr>
         <tr>
-            <td class="date">February-13</td>
+            <td class="date">February-18</td>
             <td class="topic"> Caching</td>
             <td class="reading"> <a href="https://www.usenix.org/conference/fast23/presentation/yang-juncheng"> GL-Cache: Group-level learning for efficient and high-performance caching</a>  </td>
             <td class="slides"></td>
             <td class="Notes"></td>
         </tr>
-        <tr>
-            <td class="date">February-18</td>
-            <td class="topic"> Caching</td>
-            <td class="reading"> <a href="https://www.usenix.org/conference/nsdi23/presentation/song-zhenyu"> HALP: Heuristic Aided Learned Preference Eviction Policy for YouTube CDN</a>  </td>
-            <td class="slides"></td>
-            <td class="Notes"></td>
-        </tr>
+        <!--<tr>-->
+            <!--<td class="date">February-20</td>-->
+            <!--<td class="topic"> Caching</td>-->
+            <!--<td class="reading"> <a href="https://www.usenix.org/conference/nsdi23/presentation/song-zhenyu"> HALP: Heuristic Aided Learned Preference Eviction Policy for YouTube CDN</a>  </td>-->
+            <!--<td class="slides"></td>-->
+            <!--<td class="Notes"></td>-->
+        <!--</tr>-->
         <tr>
             <td class="date">February-20</td>
             <td class="topic"> Caching</td>
-            <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3603269.3604863"> Darwin: Flexible Learning-based CDN Caching</a>  </td>
+            <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3603269.3604863"> Darwin: Flexible Learning-based CDN Caching</a> <br>
+    <a href="https://www.usenix.org/conference/nsdi23/presentation/song-zhenyu"> HALP: Heuristic Aided Learned Preference Eviction Policy for YouTube CDN</a> 
+
+ </td>
             <td class="slides"></td>
             <td class="Notes"> Project Proposal Due</td>
         </tr>
