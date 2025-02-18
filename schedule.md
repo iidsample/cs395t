@@ -106,7 +106,7 @@ Cloud Microservices</a>  </td>
 
  </td>
             <td class="slides"></td>
-            <td class="Notes"> Project Proposal Due</td>
+            <td class="Notes"> </td>
         </tr>
         <tr>
             <td class="date">February-25</td>
@@ -114,7 +114,7 @@ Cloud Microservices</a>  </td>
             <td class="reading"> <a href="https://dl.acm.org/doi/10.5555/3488766.3488815"> 
 Ansor: Generating High-Performance Tensor Programs for Deep Learning</a>  </td>
             <td class="slides"></td>
-            <td class="Notes"></td>
+            <td class="Notes"> Project Proposal Due</td>
         </tr>
         <tr>
             <td class="date">February-27</td>
