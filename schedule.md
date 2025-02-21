@@ -82,7 +82,7 @@ title: Schedule
             <td class="reading"> <a href="https://dl.acm.org/doi/10.1145/3445814.3446693"> Sinan: ML-Based and QoS-Aware Resource Management for
 Cloud Microservices</a>  </td>
             <td class="slides"> <a href="https://drive.google.com/file/d/1bsSRqzmTiuVe5QcMMnyMA67lxVtEGrG_/view?usp=sharing"> Slides </a>  <br>
-                                <a href=https://drive.google.com/file/d/1Qw6gGiNjAAp7SFBMfdjgnU-gu1fzTvrS/view?usp=sharing"> Student Presentation </a> </td>  
+                                <a href="https://drive.google.com/file/d/1Qw6gGiNjAAp7SFBMfdjgnU-gu1fzTvrS/view?usp=sharing"> Student Presentation </a> </td>  
             <td class="Notes"></td>
         </tr>
         <tr>
